@@ -1,5 +1,5 @@
 clg_list = []
-clg_tuple = () # empty tuple
+clg_tuple = ()  # empty tuple
 print("Enter Name of ten Clg :")
 i = 1
 while i <= 10:
@@ -12,4 +12,3 @@ while i <= 10:
     clg_tuple = tuple(clg_list)
     print(clg_tuple)
     i += 1
-
